@@ -1,6 +1,6 @@
 # IndeedCrawlNLP
 
-This project pulls job descriptions from the Indeed website using selenium and beautifullsoup.
+This project pulls job descriptions from the Indeed website(https://vn.indeed.com/) using selenium and beautifullsoup.
 
 Get the general information about the job needs by processing and analyzing the data that have been obtained.
 
